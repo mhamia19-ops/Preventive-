@@ -1,0 +1,12 @@
+{
+  "name": "MaintOS - Gestion de maintenance",
+  "short_name": "MaintOS",
+  "description": "Application de gestion des ordres de maintenance préventive",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "fr"
+}
